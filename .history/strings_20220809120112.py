@@ -20,7 +20,3 @@ nombre[: 3]
 #imprime las tres primeras letras
 nombre[3: ]
 #NO imprime las tres primeras letras
-nombre[1:7:2 ]
-#NO imprime desde la primera posicion hasta la septima en pasos saltados de 2
-nombre[::-1]
-#escribe la cadena de texto al reves

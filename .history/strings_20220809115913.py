@@ -15,12 +15,3 @@
 # Aclaración: se comienza a contar caracteres desde el 0 (que es el primer número en informática). Siguiendo el ejemplo, la letra ‘F’ de ‘Facundo’ es el caracter número 0. Por ende, nombre[0], nos devolvería una F.
 nombre = "Francisco"
 nombre[0 : 3]
-#imprime las letras desde la la posicion 1 hasta la 3
-nombre[: 3]
-#imprime las tres primeras letras
-nombre[3: ]
-#NO imprime las tres primeras letras
-nombre[1:7:2 ]
-#NO imprime desde la primera posicion hasta la septima en pasos saltados de 2
-nombre[::-1]
-#escribe la cadena de texto al reves
